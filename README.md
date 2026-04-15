@@ -35,3 +35,11 @@ Next Steps
 * Bash scripting
 * NGS file formats (FASTQ, SAM/BAM, VCF)
 * Python-based sequence processing
+
+Text Processing Day 3
+- grep → filtering data based on patterns
+- wc → counting lines
+- sort → ordering data
+- uniq → removing duplicates / counting frequency
+- cut → extracting columns from structured data
+- pipes (|) → chaining commands

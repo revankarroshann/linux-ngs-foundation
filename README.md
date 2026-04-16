@@ -43,3 +43,10 @@ Text Processing Day 3
 - uniq → removing duplicates / counting frequency
 - cut → extracting columns from structured data
 - pipes (|) → chaining commands
+
+ Day 4 (Pipelines)
+
+- Created pipeline scripts to automate data processing
+- Combined grep, sort, wc into workflows
+- Practiced multi-step filtering using pipelines
+- Learned how to run scripts using bash

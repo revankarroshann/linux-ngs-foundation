@@ -50,3 +50,10 @@ Text Processing Day 3
 - Combined grep, sort, wc into workflows
 - Practiced multi-step filtering using pipelines
 - Learned how to run scripts using bash
+
+Day 5 (Structured Data Processing)
+- Worked with CSV-like biological data
+- Learned to extract columns using cut
+- Used grep for text filtering
+- Used awk for numeric conditions
+- Combined tools to solve structured data problems

@@ -64,3 +64,9 @@ Day 6 (FASTQ Processing)
 - Extracted sequence lines using awk (NR % 4)
 - Filtered sequences based on patterns
 - Linked sequence data with read IDs
+
+Day 7 (FASTQ Workflow)
+- Built mini pipeline for FASTQ data processing
+- Extracted sequences using awk
+- Applied filtering conditions on sequence data
+- Linked sequence data with read IDs

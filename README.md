@@ -57,3 +57,10 @@ Day 5 (Structured Data Processing)
 - Used grep for text filtering
 - Used awk for numeric conditions
 - Combined tools to solve structured data problems
+
+Day 6 (FASTQ Processing)
+- Worked with FASTQ-like structured data
+- Understood 4-line read format
+- Extracted sequence lines using awk (NR % 4)
+- Filtered sequences based on patterns
+- Linked sequence data with read IDs

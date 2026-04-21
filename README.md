@@ -70,3 +70,9 @@ Day 7 (FASTQ Workflow)
 - Extracted sequences using awk
 - Applied filtering conditions on sequence data
 - Linked sequence data with read IDs
+
+Day 8 (Dynamic FASTQ Pipeline)
+- Built reusable FASTQ processing pipeline
+- Added dynamic pattern input using command-line arguments
+- Extracted sequences and filtered based on user-defined patterns
+- Linked sequence data with corresponding read IDs

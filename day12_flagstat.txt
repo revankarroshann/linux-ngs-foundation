@@ -1,0 +1,10 @@
+samtools flagstat sorted.bam output:
+
+Total reads: 3
+Mapped reads: 3
+Unmapped reads: 0
+
+Mapping percentage: 100%
+
+Observation:
+All reads are successfully mapped, indicating good data quality and correct reference.

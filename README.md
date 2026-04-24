@@ -91,3 +91,8 @@ Day 11 (SAMtools - Sorting & Indexing)
 - Sorted BAM file using samtools sort
 - Indexed BAM file for fast access
 - Queried reads from chromosome using samtools view
+
+ Day 12 (Alignment Statistics)
+- Used samtools flagstat to analyze alignment
+- Evaluated total, mapped, and unmapped reads
+- Calculated mapping percentage

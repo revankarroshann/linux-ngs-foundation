@@ -76,3 +76,8 @@ Day 8 (Dynamic FASTQ Pipeline)
 - Added dynamic pattern input using command-line arguments
 - Extracted sequences and filtered based on user-defined patterns
 - Linked sequence data with corresponding read IDs
+
+ Day 9 (FastQC)
+- Installed FastQC
+- Generated quality report for FASTQ file
+- Checked sequence quality, length, and GC content

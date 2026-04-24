@@ -86,3 +86,8 @@ Day 10 (SAMtools)
 - Created SAM file with aligned reads
 - Converted SAM to BAM format
 - Used samtools to view and count reads
+
+Day 11 (SAMtools - Sorting & Indexing)
+- Sorted BAM file using samtools sort
+- Indexed BAM file for fast access
+- Queried reads from chromosome using samtools view

@@ -1,0 +1,4 @@
+@SQ	SN:chr1	LN:1000
+read1	0	chr1	1	255	10M	*	0	0	ATCGTACGTA	*
+read2	0	chr1	5	255	10M	*	0	0	GGGCTAGCTA	*
+read3	0	chr1	10	255	10M	*	0	0	ATCGATCGAA	*

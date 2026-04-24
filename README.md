@@ -81,3 +81,8 @@ Day 8 (Dynamic FASTQ Pipeline)
 - Installed FastQC
 - Generated quality report for FASTQ file
 - Checked sequence quality, length, and GC content
+
+Day 10 (SAMtools)
+- Created SAM file with aligned reads
+- Converted SAM to BAM format
+- Used samtools to view and count reads

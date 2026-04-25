@@ -96,3 +96,8 @@ Day 11 (SAMtools - Sorting & Indexing)
 - Used samtools flagstat to analyze alignment
 - Evaluated total, mapped, and unmapped reads
 - Calculated mapping percentage
+
+ Day 13 (Python - FASTQ Processing)
+- Wrote Python script to read FASTQ file
+- Counted total number of sequences
+- Applied modulo logic (i % 4) to extract sequence lines

@@ -113,3 +113,8 @@ Day 15 (BWA Alignment Pipeline)
 - Converted SAM to BAM
 - Sorted and indexed BAM file
 - Evaluated alignment using samtools flagstat
+
+Day 16 (Pipeline Automation)
+- Created bash script to automate NGS workflow
+- Integrated BWA alignment and SAMtools processing
+- Generated BAM, sorted BAM, index, and stats automatically

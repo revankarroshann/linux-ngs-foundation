@@ -106,3 +106,10 @@ Day 14 (Python - GC Content Filtering)
 - Calculated GC percentage of sequences from FASTQ
 - Filtered sequences with GC > 50%
 - Applied Python for biological data processing
+
+Day 15 (BWA Alignment Pipeline)
+- Aligned FASTQ reads to reference genome using BWA
+- Generated SAM file from alignment
+- Converted SAM to BAM
+- Sorted and indexed BAM file
+- Evaluated alignment using samtools flagstat

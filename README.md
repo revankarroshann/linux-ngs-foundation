@@ -101,3 +101,8 @@ Day 11 (SAMtools - Sorting & Indexing)
 - Wrote Python script to read FASTQ file
 - Counted total number of sequences
 - Applied modulo logic (i % 4) to extract sequence lines
+
+Day 14 (Python - GC Content Filtering)
+- Calculated GC percentage of sequences from FASTQ
+- Filtered sequences with GC > 50%
+- Applied Python for biological data processing

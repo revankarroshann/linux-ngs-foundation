@@ -118,3 +118,9 @@ Day 16 (Pipeline Automation)
 - Created bash script to automate NGS workflow
 - Integrated BWA alignment and SAMtools processing
 - Generated BAM, sorted BAM, index, and stats automatically
+
+Day 17 (Reusable Pipeline)
+- Modified pipeline to accept FASTQ input as argument
+- Used basename to generate dynamic output file names
+- Prevented overwriting of files
+- Made pipeline reusable for different datasets

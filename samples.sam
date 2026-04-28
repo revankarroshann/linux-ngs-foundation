@@ -1,0 +1,7 @@
+@SQ	SN:chr1	LN:36
+@PG	ID:bwa	PN:bwa	VN:0.7.17-r1188	CL:bwa mem ref.fa samples.fastq
+read1	4	*	0	0	*	*	0	0	ATCGTACGTA	IIIIIIIIII	AS:i:0	XS:i:0
+read2	4	*	0	0	*	*	0	0	GGGCTAGCTA	IIIIIIIIII	AS:i:0	XS:i:0
+read3	4	*	0	0	*	*	0	0	ATCGATCGAA	IIIIIIIIII	AS:i:0	XS:i:0
+read4	4	*	0	0	*	*	0	0	TTTTGGGGCC	IIIIIIIIII	AS:i:0	XS:i:0
+read5	4	*	0	0	*	*	0	0	ATCGGGATCG	IIIIIIIIII	AS:i:0	XS:i:0

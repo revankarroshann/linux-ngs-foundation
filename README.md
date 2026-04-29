@@ -129,3 +129,8 @@ Day 18 (Batch Processing)
 - Implemented loop to process multiple FASTQ files
 - Automated alignment and SAMtools steps for each file
 - Enabled batch processing for large datasets
+
+Day 19 (Project Structure)
+- Organized repository into data, scripts, and results folders
+- Updated pipeline to use structured paths
+- Improved project readability and maintainability

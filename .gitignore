@@ -1,0 +1,10 @@
+# Raw data
+*.fastq
+
+# Alignment files
+*.sam
+*.bam
+*.bai
+
+# Stats
+*_stats.txt

@@ -124,3 +124,8 @@ Day 17 (Reusable Pipeline)
 - Used basename to generate dynamic output file names
 - Prevented overwriting of files
 - Made pipeline reusable for different datasets
+
+Day 18 (Batch Processing)
+- Implemented loop to process multiple FASTQ files
+- Automated alignment and SAMtools steps for each file
+- Enabled batch processing for large datasets

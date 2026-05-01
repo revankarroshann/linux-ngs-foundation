@@ -134,3 +134,9 @@ Day 19 (Project Structure)
 - Organized repository into data, scripts, and results folders
 - Updated pipeline to use structured paths
 - Improved project readability and maintainability
+
+Day 20 (Flexible Pipeline)
+- Built a fully flexible pipeline using input arguments
+- Accepts input folder, reference genome, and output folder
+- Supports batch processing of FASTQ files
+- Structured workflow for real-world usage
